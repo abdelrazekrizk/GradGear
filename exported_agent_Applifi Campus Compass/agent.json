@@ -1,0 +1,11 @@
+{
+  "defaultLanguageCode": "en",
+  "timeZone": "America/Los_Angeles",
+  "projectNumber": xxxxxxxxxxx,
+  "advancedSettings": {
+    "loggingSettings": {
+
+    }
+  },
+  "startPlaybook": "Default Generative Agent"
+}

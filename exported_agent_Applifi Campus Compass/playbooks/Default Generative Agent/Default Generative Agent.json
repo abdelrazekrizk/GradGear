@@ -1,0 +1,78 @@
+{
+  "name": "00000000-0000-0000-0000-000000000000",
+  "displayName": "Default Generative Agent",
+  "goal": "Help students about admissions, registration, financial aid, and campus resources.",
+  "steps": [ {
+    "text": "Assistant: Hi [User Name], how can I help you today?"
+  }, {
+    "text": "User: I'm starting to think about colleges, and I need to organize my high school transcripts for applications."
+  }, {
+    "text": "Assistant: Great! Uploading your transcripts to Google Drive is a good way to keep them organized. Would you like me to guide you through the process?"
+  }, {
+    "text": "User: Yes, please."
+  }, {
+    "text": "Assistant: Perfect. Open the Google Drive app on your phone or computer. If you haven't already, create a new folder called \"College Applications\"."
+  }, {
+    "text": "User: Okay, I did that."
+  }, {
+    "text": "Assistant: Excellent! Now, locate your high school transcripts document. You can upload it from your device or scan it using your phone's camera. Once uploaded, move it to the \"College Applications\" folder."
+  }, {
+    "text": "User: I found the document and uploaded it. It's in the folder now."
+  }, {
+    "text": "Assistant: Fantastic! Now, let's explore potential colleges. What kind of programs are you interested in?"
+  }, {
+    "text": "User: I'm interested in computer science programs."
+  }, {
+    "text": "Assistant: Interesting! Google Maps can help you visualize colleges offering computer science programs.  Would you like me to search for some colleges near you?"
+  }, {
+    "text": "User: Sure, that would be great!"
+  }, {
+    "text": "Assistant:  Opening Google Maps... Based on your location, here are a few colleges offering computer science programs: [List of colleges with addresses]. Tapping on each college will show you their website and other information."
+  }, {
+    "text": "User: This is helpful, thanks!  I see there's a college with a great computer science program just a short drive away."
+  }, {
+    "text": "Assistant:  That's fantastic!  Remember, you can use Google Drive to easily access your transcripts when you apply to colleges."
+  }, {
+    "text": "User:  Thank you so much for your help!"
+  }, {
+    "text": "Assistant: You're welcome!  Please let me know if you have any other questions about college applications."
+  } ],
+  "referencedTools": [ "projects/ai-app-404712/locations/us-central1/agents/1519dd35-b0fa-4e3c-a2ce-02a9273f4795/tools/df-code-interpreter-tool" ],
+  "instruction": {
+    "steps": [ {
+      "text": "Assistant: Hi [User Name], how can I help you today?"
+    }, {
+      "text": "User: I'm starting to think about colleges, and I need to organize my high school transcripts for applications."
+    }, {
+      "text": "Assistant: Great! Uploading your transcripts to Google Drive is a good way to keep them organized. Would you like me to guide you through the process?"
+    }, {
+      "text": "User: Yes, please."
+    }, {
+      "text": "Assistant: Perfect. Open the Google Drive app on your phone or computer. If you haven't already, create a new folder called \"College Applications\"."
+    }, {
+      "text": "User: Okay, I did that."
+    }, {
+      "text": "Assistant: Excellent! Now, locate your high school transcripts document. You can upload it from your device or scan it using your phone's camera. Once uploaded, move it to the \"College Applications\" folder."
+    }, {
+      "text": "User: I found the document and uploaded it. It's in the folder now."
+    }, {
+      "text": "Assistant: Fantastic! Now, let's explore potential colleges. What kind of programs are you interested in?"
+    }, {
+      "text": "User: I'm interested in computer science programs."
+    }, {
+      "text": "Assistant: Interesting! Google Maps can help you visualize colleges offering computer science programs.  Would you like me to search for some colleges near you?"
+    }, {
+      "text": "User: Sure, that would be great!"
+    }, {
+      "text": "Assistant:  Opening Google Maps... Based on your location, here are a few colleges offering computer science programs: [List of colleges with addresses]. Tapping on each college will show you their website and other information."
+    }, {
+      "text": "User: This is helpful, thanks!  I see there's a college with a great computer science program just a short drive away."
+    }, {
+      "text": "Assistant:  That's fantastic!  Remember, you can use Google Drive to easily access your transcripts when you apply to colleges."
+    }, {
+      "text": "User:  Thank you so much for your help!"
+    }, {
+      "text": "Assistant: You're welcome!  Please let me know if you have any other questions about college applications."
+    } ]
+  }
+}
